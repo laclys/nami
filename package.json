@@ -4,7 +4,7 @@
   "description": "The Tidecaller",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "node server.js",
     "build": "next build",
     "start": "next start"
   },
