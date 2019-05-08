@@ -15,3 +15,4 @@ redis： 内存数据解构存储、 可持久存储、支持多种数据结构
 
 redis-cli 连接数据库
 
+next.js 默认不支持css (使用@zeit/next-css)
